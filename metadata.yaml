@@ -1,0 +1,39 @@
+_repo: Adventures-in-the-Canyons-of-the-ColoradoBy-two-of-its-earliest-explorers_35268
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Hawkins, William W.
+    deathdate: 1919
+    gutenberg_agent_id: '43157'
+    url: http://www.gutenberg.org/2009/agents/43157
+  - agent_name: White, James
+    birthdate: 1837
+    deathdate: 1927
+    gutenberg_agent_id: '43207'
+    url: http://www.gutenberg.org/2009/agents/43207
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bass, William Wallace
+    birthdate: 1848
+    deathdate: 1933
+    gutenberg_agent_id: '37714'
+    url: http://www.gutenberg.org/2009/agents/37714
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35268'
+  lccn: '20016609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Colorado River (Colo.-Mexico)'
+- !lcc 'F786'
+title: Adventures in the Canyons of the Colorado, by Two of Its Earliest Explorers
+url: http://www.gutenberg.org/ebooks/35268
